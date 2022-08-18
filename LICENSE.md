@@ -1,5 +1,5 @@
-WIP - UNIVERSITY OF WATERLOO CANADA LICENSE
--------------------------------------------
+University of Waterloo (Canada)
+-------------------------------
 
 This data repository belong to the "University Of Waterloo".
 
