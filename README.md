@@ -1,6 +1,10 @@
 # Comparison of R and Python Data Science Applications
+#
+MFCF link: https://uwaterloo.ca/math-faculty-computing-facility/comparison-r-and-python-data-science-applications
+#
 
 Each of the sections labeled 1 to 8 contain relevant information on the listed topics. This includes written text, external links and coding examples with output. For a further breakdown of what can be found within these resources please read the section 1 Introduction. PDF, HTML and Jupyter Notebook files are available for each of the sections 1 to 8.
+#
 
 ### 1) Introduction
 - Links to external resources, YouTube videos, Tutorials, Reference manuals
@@ -18,8 +22,3 @@ Each of the sections labeled 1 to 8 contain relevant information on the listed t
 - R Plots and ggplot2 Package, Python Matplotlib Module, Scatter Plots, Histograms, Curves, Images and Array (Field) Plots, 3D Visualizations
 ### 8) Predictive Models
 - Python pandas Module, Data, Regression, Decision Trees, Clustering, Time Series, Neural Networks in Python
-
-
-
-
-MFCF link: https://uwaterloo.ca/math-faculty-computing-facility/comparison-r-and-python-data-science-applications
