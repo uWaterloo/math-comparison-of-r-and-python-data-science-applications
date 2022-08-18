@@ -1,8 +1,9 @@
 # Comparison of R and Python Data Science Applications
 
-The attached files are related to the following Math faculty Computing Facility link: https://uwaterloo.ca/math-faculty-computing-facility/comparison-r-and-python-data-science-applications
+The attached files are related to the following Math faculty Computing Facility link:    
+https://uwaterloo.ca/math-faculty-computing-facility/comparison-r-and-python-data-science-applications
 
-Each of the sections labeled 1 to 8 contain relevant information on the topics listed below. PDF, HTML and Jupyter Notebook folders contain the relevant files for each of the sections 1 to 8. Please note that the 'Extra' folder contains additional jpeg images as well as two a small csv files. These may be needed for those who wish to run certain Jupyter Notebook files.
+Each of the sections labeled 1 to 8 contain relevant information on the topics listed below. PDF, HTML and Jupyter Notebook folders contain the relevant files for each of the sections 1 to 8. Please note that the 'Extra' folder contains additional jpeg images as well as two small csv files. These may be needed for those who wish to run certain Jupyter Notebook files.
 
 #### 1) Introduction
 - Links to external resources, YouTube videos, Tutorials, Reference manuals
