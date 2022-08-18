@@ -1,1 +1,3 @@
-# math-comparison-of-r-and-python-data-science-applications
+# Comparison of R and Pythondata science applications
+
+see some into file
