@@ -1,6 +1,6 @@
 # Comparison of R and Python Data Science Applications
 MFCF link: https://uwaterloo.ca/math-faculty-computing-facility/comparison-r-and-python-data-science-applications
-#
+
 Each of the sections labeled 1 to 8 contain relevant information on the listed topics. This includes written text, external links and coding examples with output. For a further breakdown of what can be found within these resources please read the section 1 Introduction. PDF, HTML and Jupyter Notebook files are available for each of the sections 1 to 8.
 
 ### 1) Introduction
