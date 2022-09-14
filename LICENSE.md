@@ -1,6 +1,16 @@
-University of Waterloo (Canada)
--------------------------------
+COPYRIGHT UNIVERSITY OF WATERLOO
 
-This data repository belong to the "University Of Waterloo".
+This project is property of the University of Waterloo under Policy 73.
+It may be utilised and repurposed by other staff and faculty members for
+internal use without explicit permission.
 
-The university has full rights over the data, including the right to change this license.
+All contributions made are subject to this and future licenses. This licence
+may change without notice.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
